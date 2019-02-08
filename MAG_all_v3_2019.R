@@ -1,6 +1,6 @@
 ###### FEb 2018 all functions for Github------ V3
 
- 
+
 ### packages: 
 library(igraph)
 library(dplyr)
